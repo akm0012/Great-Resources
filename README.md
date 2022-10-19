@@ -11,4 +11,4 @@ A spot for all the Great Android / Developer / Tech Resources
 
 ## General
 
-- [Graphic Generator]([https://futurestud.io/tutorials/retrofit-getting-started-and-android-client](https://www.norio.be/graphic-generator/)) - A simple online tool that can help create free graphics.
+- [Graphic Generator](https://www.norio.be/graphic-generator/) - A simple online tool that can help create free graphics.
